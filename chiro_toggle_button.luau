@@ -131,7 +131,7 @@ ToggleIcon.Name = "ToggleIcon"
 ToggleIcon.Size = UDim2.fromOffset(24, 24)
 ToggleIcon.Position = UDim2.new(0.5, -12, 0.5, -12)
 ToggleIcon.BackgroundTransparency = 1
-ToggleIcon.Image = "rbxassetid://10709775241" -- High-definition Chiro Cyber Shield / Emblem
+ToggleIcon.Image = "rbxassetid://100969426477661" -- High-definition Chiro Cyber Shield / Emblem
 ToggleIcon.ImageColor3 = Color3.fromRGB(34, 197, 94)
 ToggleIcon.ScaleType = Enum.ScaleType.Fit
 ToggleIcon.ZIndex = 10002
@@ -257,5 +257,3 @@ task.spawn(function()
         task.wait(0.4)
     end
 end)
-
-print("[Chiro Standalone Toggle v8.0] Initialized successfully with Cyber Emblem icon and smooth window transitions.")
